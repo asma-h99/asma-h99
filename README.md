@@ -24,7 +24,7 @@ My name is Asma and I am a Service desk engineer at Aspire Services Company I ha
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="mailto:asma.m.hattab@gmail.com">
-  <img height="50" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999"/>
+ <img height="50" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/172206i70472167E79B9D0F/image-size/large?v=v2&px=999" alt="Email"/>
 </a>
 
 <h1> 🚀 &nbsp;Some Tools I Have Used and Learned</h1>
