@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Asma Hattab 👋</h1>
-<h3 align="center">Data Science and Machine Learning Enthusiast</h3>
+<h3 align="center">Technology Enthusiast | Data-Inspired | Always Learning</h3>
 
 <p>
 My name is Asma and I am a Service Desk Engineer at Aspire Services Company. I have a bachelor's degree in Computer Engineering from Jordan University of Science and Technology, and I am a Data Science and Machine Learning Enthusiast.
