@@ -13,7 +13,7 @@ My name is Asma and I am a Service Desk Engineer at Aspire Services Company. I h
   <li>❤️ I love reading books and enjoy playing chess</li>
 </ul>
 
-<h1>💬 Let's Connect and have a Chat!</h1>
+<h1>💬 Let's Connect!</h1>
 
 <p align="center">
   <a href="https://www.kaggle.com/asmahattab">
