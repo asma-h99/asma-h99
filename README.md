@@ -2,10 +2,11 @@
 <h3 align="center">Technology Enthusiast | Data-Inspired | Always Learning</h3>
 
 <p>
-My name is Asma and I am a Service Desk Engineer at Aspire Services Company. I have a bachelor's degree in Computer Engineering from Jordan University of Science and Technology, and I am a Data Science and Machine Learning Enthusiast.
+My name is Asma and I am a Systems Engineer at Aspire Services Company. I have a bachelor's degree in Computer Engineering from Jordan University of Science and Technology, and I am a Data Science and Machine Learning Enthusiast.
 </p>
 
 <ul>
+  <li>🏗️ AWS Certified Solutions Architect – Associate (SAA-C03) — <a href="https://www.credly.com/badges/e627e976-ee87-4031-95b9-1b9840fd2a15">View badge</a></li>
   <li>🔭 AWS Certified Cloud Practitioner (CLF-C01) — <a href="https://www.credly.com/badges/0806a5a3-0f05-4e3f-99ac-ed32119946e0/linked_in?t=rs3dwp">View badge</a></li>
   <li>🌱 I follow this rule: "Try to learn something about everything and everything about something."</li>
   <li>🤝 Interested in collaborating on <code>open-source</code> projects</li>
